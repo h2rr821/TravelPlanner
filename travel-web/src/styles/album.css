@@ -1,0 +1,20 @@
+
+footer {
+
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+
+    margin-bottom: .25rem;
+}
+
+/*==============footer===========================*/
+
+.layout-icon,.layout-social{
+
+    font-size: 1.5em;
+
+}
+
